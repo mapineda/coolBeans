@@ -1,0 +1,3 @@
+rootProject.name = 'coolBeans'
+
+include ':app'
